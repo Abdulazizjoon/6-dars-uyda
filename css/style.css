@@ -1,0 +1,35 @@
+body{
+    background-color: #242424;
+}
+.set{
+    margin-left:600px;
+    width: 329px;
+    height: 48px;
+    color: #fff;
+    font-size: 32px;
+    margin-top: 106px;
+
+}
+.lorem{
+    margin-left:600px;
+    font-size:18px;
+    color:#7F7F7F;
+    width: 625px;
+    height: 54px;
+}
+.input{
+    outline-color: aqua;
+    width:500px;
+    height: 48px;
+    padding-left:20px;
+    font-size:18px;
+    border: 1px solid #3d3d3d;
+    margin-top:40px;
+    border-radius: 4px;
+    margin-left:600px;
+    background-color: #242424;
+}
+.styl{
+    margin-left: 600px;
+    margin-top:30px;
+}
