@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: #242424;
 }
 .set{
@@ -33,3 +33,25 @@ body{
     margin-left: 600px;
     margin-top:30px;
 }
+form button{
+    margin-top: 20px;
+    margin-left: 600px;
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    color: #fff;
+    font-size: 16px;
+    border: 0px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.wraper{
+    display: flex;
+    margin-left:300px;
+    gap: 400px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #fff;
+} */
+
